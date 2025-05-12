@@ -23,4 +23,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: DOCKER_SECRET/docker-file:23f2004669
+          tags: vashini2323/docker-file:23f2004669
